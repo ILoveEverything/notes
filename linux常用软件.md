@@ -1,6 +1,7 @@
 # ArchLinux常用软件
 
 - jetbrains-toolbox
+- genymotion
 - visual-studio-code-bin
 - dbeaver
 - navicat16-premium-cs
